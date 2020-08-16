@@ -1,9 +1,6 @@
-console.log("hello")
-console.log("hhh")
-console.log("aaa")
-console.log("dev 第一次")
-console.log("hello")
-console.log("hhh")
-console.log("aaa")
-console.log("dev 第一次")
-
+console.log("hello world")
+console.log(1+1)
+const   fn=()=>{
+     console.log("床前明光");
+}
+fn()
